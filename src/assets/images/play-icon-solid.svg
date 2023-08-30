@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Play</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-686.000000, -406.000000)" id="Play" fill="#FFFFFF">
+            <g transform="translate(686.000000, 406.000000)">
+                <path d="M35,70 C15.6700338,70 0,54.3299662 0,35 C0,15.6700338 15.6700338,0 35,0 C54.3299662,0 70,15.6700338 70,35 C70,54.3299662 54.3299662,70 35,70 Z M48.8519705,33.4063788 L26.1422409,20.617329 C25.1392434,20.051422 23.875,20.7498231 23.875,21.8704089 L23.875,48.8295911 C23.875,49.9501769 25.1392434,50.648578 26.1422409,50.082671 L48.8519705,37.2913755 C50.3937876,36.4245497 50.3937876,34.277696 48.8519705,33.4063788 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
